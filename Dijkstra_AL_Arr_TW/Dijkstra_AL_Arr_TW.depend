@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1605175573 source:c:\users\20194021\documents\github\datastructureincpp\dijkstra_al_arr_tw\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<limits>
+	<iostream>
+	<fstream>
+	<string>
+

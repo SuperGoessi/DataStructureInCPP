@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1604561597 source:c:\users\20194021\documents\github\datastructureincpp\dijkstra_linkedlist_minheap\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<limits>
+

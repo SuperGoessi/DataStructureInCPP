@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1605169991 source:c:\users\20194021\documents\github\datastructureincpp\read_text\main.cpp
+	<iostream>
+	<fstream>
+	<string>
+

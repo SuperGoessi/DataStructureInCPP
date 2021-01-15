@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1605793446 source:c:\users\20194021\documents\github\datastructureincpp\dijkstra_1mgrid\main.cpp
+	<iostream>
+	<cstdio>
+	<cstdlib>
+	<limits>
+	<iostream>
+	<fstream>
+	<string>
+	<chrono>
+
